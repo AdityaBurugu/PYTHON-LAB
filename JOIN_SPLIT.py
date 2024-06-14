@@ -1,0 +1,5 @@
+my_str=input("Enter a string:")
+split_string=my_str.split()
+print(split_string)
+join_string='-'.join(split_string)
+print(join_string)

@@ -1,0 +1,5 @@
+my_str=input("Enter a string:")
+words=my_str.split()
+print(words)
+words.sort()
+print(words)
